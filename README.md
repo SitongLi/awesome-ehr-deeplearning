@@ -25,6 +25,9 @@ Over the past decade, the volume of EHR has exploded. This data has great potent
 
 ***
 
+### New Added (by Sitong)
+- [[ref](https://www.researchgate.net/publication/312118124_Deep_Learning_for_Health_Informatics)] - **Deep learning for health informatics**, Ravì, Daniele, et al. 2016.
+
 
 
 ### Survey
