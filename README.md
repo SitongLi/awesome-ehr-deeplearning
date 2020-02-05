@@ -26,6 +26,10 @@ Over the past decade, the volume of EHR has exploded. This data has great potent
 ***
 
 ### New Added (by Sitong)
+
+- [[pdf](https://watermark.silverchair.com/gkz868.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAnYwggJyBgkqhkiG9w0BBwagggJjMIICXwIBADCCAlgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM2hci89-mRfF3IWvXAgEQgIICKQnjIxvG2qNGjQMObPV361tNoq8BMDznwxwwVZeYL1YqYxsDxaWJUItqLjbAukG6py68eBl_whehw3QYUkF7mxM3e_fzxaQ09Xx9upjEEYMOefrXSRIE40Qn-N4trMhU1ZXOS3cImw8AFzS3jAZ5flC34q4R544TJOHyiQNUywtWD4zq1eW16ZPDR7yxx2dAfr57APghQWq8EZuw1JTlk6TcXMKuaMx-fEP-W7Va1RfJ99jzoK6mSIFed1kYqrWMG4avo_DrQojMU8vyEsZkEajO7PQR6pmAtEGe9TAtubWJuJxG1dKJoWBl7cSIPL2OVZHx27KubQDv9hJ5ApZSELKDs7kJbRF789Oj8Q9T2oULs4QoT1flm-bxBI-vFtxfEbm_m3r9ZVvx_9cJWjRKp9KzylnDmoltQvTEPzJR6b5j0luD0O_j3_8pRc1G1EqnhK6b9cui0sWvK2IsFOgMkSC8JeDDzpchLLhBWc2Ci101PjPoCYznlWeX7tNXTjIqbOYzn6-Ax0BRz4sDraKb_dqYnVMQqX5PF0osKvRdiNPdAX_tcemBZdON-30Kbz8vz8ZmGkK50s9DOyVQaiNn9KGheiaY_FmCrH_3uAP3GmhLW8wgswdIb2SYBjhmuPAefrBwWjrHkQAp0Ffcnl8x5yND-lrNJBneyweImyEHauRzfxbPFZmuzDbhdU9ctFVOQ4Nrznv-COnI0Lc_LvwJC4P50JdQ24Nhugc)] - **Convolutional neural network model to predict causal risk factors that share complex regulatory features**, Lee, Taeyeop, et al. 2019.
+Lee, Taeyeop, et al. "Convolutional neural network model to predict causal risk factors that share complex regulatory features." Nucleic acids research 47.22 (2019): e146-e146.
+
 - [[ref](https://www.researchgate.net/publication/312118124_Deep_Learning_for_Health_Informatics)] - **Deep learning for health informatics**, Ravì, Daniele, et al. 2016.
 
 - [[pdf](https://reader.elsevier.com/reader/sd/pii/S1532046417301338?token=37865D6984BBDB97E6465BAB4913C8A4F77879AB3581834EFAF30206375F3E518AA537CE704F6397066E3DBD154558E8)] - **Predicting mental conditions based on “history of present illness” in psychiatric notes with deep neural networks**, Tran, Tung, and Ramakanth Kavuluru. 2017.
