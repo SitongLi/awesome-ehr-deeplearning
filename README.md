@@ -28,6 +28,18 @@ Over the past decade, the volume of EHR has exploded. This data has great potent
 ### New Added (by Sitong)
 - [[ref](https://www.researchgate.net/publication/312118124_Deep_Learning_for_Health_Informatics)] - **Deep learning for health informatics**, Ravì, Daniele, et al. 2016.
 
+- [[pdf](https://reader.elsevier.com/reader/sd/pii/S1532046417301338?token=37865D6984BBDB97E6465BAB4913C8A4F77879AB3581834EFAF30206375F3E518AA537CE704F6397066E3DBD154558E8)] - **Predicting mental conditions based on “history of present illness” in psychiatric notes with deep neural networks**, Tran, Tung, and Ramakanth Kavuluru. 2017.
+
+- [[pdf](https://arxiv.org/pdf/1801.08570.pdf)] - **Deep Learning in Pharmacogenomics: From Gene Regulation to Patient Stratification**, Kalinin, Alexandr A., et al. 2018.
+
+- [[pdf](https://watermark.silverchair.com/ocy068.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAl4wggJaBgkqhkiG9w0BBwagggJLMIICRwIBADCCAkAGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMZP_q3g-gWPo4kkjDAgEQgIICESGlUWqlhwN_2kTnZQLUq7eFCId9lL_L-Elalugzaj5FBVdZIfFD3lf5uc_C_14TshP9_0QR6AwiAHSuzI5-0sIqYjPyy0ptHPzKry3qyA_a3_YdS-q7id7315q1ehVL6r-kbTYcKlNkhxUmc3FZhQWKGgWF2nWa9x4KKggPCIwabHMexrtt_0QR7UXv7j5-gIRMdgSr2Ydg-aBgdszZxd7pdBhql7Nkdqq84M1NLoxRDnShYJzEE5kG4kD_br5EzOk104wKLU5X3MK5J3zsAYsXF_coDZdfc5b-t-IDy3T8iKFuRGPzdyyUbEdgA0qsQnhLtzHt7gqM1b_q3YI-tfOd5XEAi1jhmomJp4V9jUxlQpOgr5wqhHCI5P3N-ubyhjbTJj-rCjGwFUo_loUEEuiWasxMbgJqcfOQRVO2uJ4aB5q9RAWreVIiRjrae79-xCJLEowkrEcR6jQk41PEiGFwPRnFT1sQBzRo8_C_dOoNebVfsSENysItSIS-TThnjqHJ8WbYImAKNOQquI6zwIhsys_HKYS_Ac0F2xMap-oxa6B3OvtrF7x9LbTGvsKQ7hvGw57WzRS2Ie9XHFBVUUk23SY5-ImZpyqUfoYkYqIx09NKMrJBnu0uMqi6Uz25JFqK36R050NmlMxyoiEEiHLCBih5WQ5B0lO5Nm-QqaZYY0xxKafYWDWLCUFfXRlo6R4)] - **Opportunities and challenges in developing deep learning models using electronic health records data: a systematic review**, Xiao, Cao, Edward Choi, and Jimeng Sun. 2018.
+
+- [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8760225)] - **Deep learning for electronic health records analytics**, Harerimana, Gaspard, et al. 2019.
+
+- [[ref](https://www.frontiersin.org/articles/10.3389/fpsyt.2018.00290/full)] - **A deep learning approach for predicting antidepressant response in major depression using clinical and genetic biomarkers**, Lin, Eugene, et al. 2018.
+
+- [[pdf](https://www.nature.com/articles/s41380-019-0365-9.pdf)] - **Deep neural networks in psychiatry**, Durstewitz, Daniel, Georgia Koppe, and Andreas Meyer-Lindenberg. 2019.
+
 
 
 ### Survey
